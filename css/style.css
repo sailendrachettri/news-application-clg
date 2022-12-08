@@ -1,0 +1,13 @@
+.carousel-item > img{
+    width:640px;
+    height:360px;
+}
+
+.card:hover{
+    transform: scale(0.9);
+    transition: transform 0.7s;
+}
+
+.card >img{
+    height: 40vh !important;
+}
